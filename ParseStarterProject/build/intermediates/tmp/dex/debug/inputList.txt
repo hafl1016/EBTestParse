@@ -1,0 +1,4 @@
+C:\Users\Flo\EB\test\ParseStarterProject\build\intermediates\classes\debug
+C:\Users\Flo\EB\test\ParseStarterProject\build\intermediates\pre-dexed\debug\bolts-android-1.2.0-88daef29c8655f3a25730811867edebed0e94d06.jar
+C:\Users\Flo\EB\test\ParseStarterProject\build\intermediates\pre-dexed\debug\ParseCrashReporting-1.9.1-233da18044360971efcfc0d0dd98fece8ee34300.jar
+C:\Users\Flo\EB\test\ParseStarterProject\build\intermediates\pre-dexed\debug\Parse-1.9.1-094f6e89f4f6ca72720348654dc68c4d589f554d.jar
